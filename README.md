@@ -2,12 +2,12 @@
 
 Este proyecto muestra cómo evaluar y comparar distintos modelos de **aprendizaje supervisado** utilizando Python y `scikit-learn`. El objetivo es predecir si un cliente representa un riesgo crediticio alto o bajo, basándose en sus características financieras y demográficas.
 
- 📁 **Contenido**
+## 📁 **Contenido**
 
 - `Evaluating supervised models.ipynb`: Notebook principal con todo el análisis.
 - `credit_customers.csv`: Conjunto de datos utilizado (no incluido, asegúrate de tenerlo en el mismo directorio).
 
-📊 **Dataset**
+## 📊 **Dataset**
 
 El conjunto de datos contiene información sobre clientes de crédito, con variables como:
 
