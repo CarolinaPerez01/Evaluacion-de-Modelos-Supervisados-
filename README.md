@@ -36,11 +36,10 @@ El conjunto de datos contiene información sobre clientes de crédito, con varia
    - Curva ROC y AUC
 
 ## 📈 Resultados
+Cada modelo fue evaluado en términos de precisión y desempeño general. La combinación de métricas permitió identificar qué algoritmos son más efectivos para esta tarea y bajo qué condiciones.
 
 | Modelo               | Accuracy (Train/Test) | F1-Score (Test) | CV Accuracy |
 |----------------------|-----------------------|-----------------|-------------|
 | KNN                  | 0.804 / 0.736         | 0.718           | 0.711       |
 | Regresión Logística  | 0.780 / 0.772         | 0.763           | 0.733       |
 | Árbol de Decisión    | 0.751 / 0.720         | 0.719           | 0.667       |
-
-Cada modelo fue evaluado en términos de precisión y desempeño general. La combinación de métricas permitió identificar qué algoritmos son más efectivos para esta tarea y bajo qué condiciones.
